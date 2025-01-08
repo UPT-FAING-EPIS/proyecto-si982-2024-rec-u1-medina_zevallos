@@ -26,5 +26,8 @@
 
 >Publicación de Comentarios
 
-
 ![diagrama05](https://github.com/user-attachments/assets/d98e1158-6936-4b2d-8959-0d9f3ba3afbb)
+
+>Visualización del Catálogo de Eventos
+
+![Diagrama de Secuencia 5](https://github.com/user-attachments/assets/325755c8-bb2f-49dc-81ee-326586061b7c)
