@@ -3,58 +3,38 @@
 # PROYECTO: Sistema Web "EventifyMe" para la gestión y reserva de eventos
 
 ### Diagrama de Casos de Uso
-<img src="https://github.com/user-attachments/assets/bdb8a116-e15b-43f5-a4c1-4f4a70d3414e" alt="Diagrama de Casos de Uso" width="400"/>
-
+<img src="https://github.com/user-attachments/assets/bdb8a116-e15b-43f5-a4c1-4f4a70d3414e" alt="Diagrama de Casos de Uso" width="600"/>
 
 ### Diagrama de Secuencia
 
+#### Inicio de Sesión
+<img src="https://github.com/user-attachments/assets/46fc7d1e-ac2b-4552-8495-73a63b37098e" alt="Diagrama de Secuencia - Inicio de Sesión" width="600"/>
 
->Inicio de Sesión
+#### Registro de Usuarios
+<img src="https://github.com/user-attachments/assets/6206e5ea-2c79-4de9-8657-e0c487678708" alt="Diagrama de Secuencia - Registro de Usuarios" width="600"/>
 
-![digrama02](https://github.com/user-attachments/assets/46fc7d1e-ac2b-4552-8495-73a63b37098e)
+#### Gestión de Reservas
+<img src="https://github.com/user-attachments/assets/6287b7f7-5479-425a-a3f6-56c5f6aa3645" alt="Diagrama de Secuencia - Gestión de Reservas" width="600"/>
 
+#### Pagos Seguros
+<img src="https://github.com/user-attachments/assets/42c5128f-75cc-4b42-a450-456c045f8222" alt="Diagrama de Secuencia - Pagos Seguros" width="600"/>
 
->Registro de Usuarios
+#### Publicación de Comentarios
+<img src="https://github.com/user-attachments/assets/d98e1158-6936-4b2d-8959-0d9f3ba3afbb" alt="Diagrama de Secuencia - Publicación de Comentarios" width="600"/>
 
-![3c0402c9-bd25-45b0-9be0-5d812e9be40c](https://github.com/user-attachments/assets/6206e5ea-2c79-4de9-8657-e0c487678708)
+#### Visualización del Catálogo de Eventos
+<img src="https://github.com/user-attachments/assets/1a758897-6a1e-4f1a-91d6-53e0b5027af5" alt="Diagrama de Secuencia - Visualización del Catálogo de Eventos" width="600"/>
 
+#### Interacción con Chatbot
+<img src="https://github.com/user-attachments/assets/29f5d48f-d349-4148-aaa5-cfa6dab214d9" alt="Diagrama de Secuencia - Interacción con Chatbot" width="600"/>
 
->Gestión de Reservas
+#### Consulta de Reservas
+<img src="https://github.com/user-attachments/assets/24fb5581-1c62-44c2-b921-06a29d174829" alt="Diagrama de Secuencia - Consulta de Reservas" width="600"/>
 
-![diagrama03](https://github.com/user-attachments/assets/6287b7f7-5479-425a-a3f6-56c5f6aa3645)
+#### Notificaciones Automáticas
+<img src="https://github.com/user-attachments/assets/3cc12065-376b-41ef-be62-f967ab2196b6" alt="Diagrama de Secuencia - Notificaciones Automáticas" width="600"/>
 
+#### Filtrado de Eventos por Categorías
+<img src="https://github.com/user-attachments/assets/a57d1dc5-7324-4857-8c33-7fb66942ab89" alt="Diagrama de Secuencia - Filtrado de Eventos por Categorías" width="600"/>
 
->Pagos Seguros
-
-![diagrama04](https://github.com/user-attachments/assets/42c5128f-75cc-4b42-a450-456c045f8222)
-
-
->Publicación de Comentarios
-
-![diagrama05](https://github.com/user-attachments/assets/d98e1158-6936-4b2d-8959-0d9f3ba3afbb)
-
-
->Visualización del Catálogo de Eventos
-
-![Diagrama de Secuencia 5](https://github.com/user-attachments/assets/1a758897-6a1e-4f1a-91d6-53e0b5027af5)
-
-
->Interacción con Chatbot
-
-![Diagrama de Secuencia 6](https://github.com/user-attachments/assets/29f5d48f-d349-4148-aaa5-cfa6dab214d9)
-
-
->Consulta de Reservas
-
-![Diagrama de Secuencia 7](https://github.com/user-attachments/assets/24fb5581-1c62-44c2-b921-06a29d174829)
-
-
->Notificaciones Automáticas
-
-![Diagrama de Secuencia 8](https://github.com/user-attachments/assets/3cc12065-376b-41ef-be62-f967ab2196b6)
-
-
->Filtrado de Eventos por Categorías
-
-![Diagrama de Secuencia 9](https://github.com/user-attachments/assets/a57d1dc5-7324-4857-8c33-7fb66942ab89)
 
