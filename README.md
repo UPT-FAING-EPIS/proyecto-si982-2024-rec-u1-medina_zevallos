@@ -38,12 +38,13 @@
 
 >Consulta de Reservas
 
-
+![Diagrama de Secuencia 7](https://github.com/user-attachments/assets/24fb5581-1c62-44c2-b921-06a29d174829)
 
 >Notificaciones Automáticas
 
 
 
 >Filtrado de Eventos por Categorías
+
 
 
