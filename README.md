@@ -4,3 +4,27 @@
 
 ### Diagrama de Casos de Uso
 <img src="https://github.com/user-attachments/assets/bdb8a116-e15b-43f5-a4c1-4f4a70d3414e" alt="Diagrama de Casos de Uso" width="400"/>
+
+
+### Diagrama de Secuencia
+
+>Inicio de Sesión
+
+![digrama02](https://github.com/user-attachments/assets/46fc7d1e-ac2b-4552-8495-73a63b37098e)
+
+>Registro de Usuarios
+
+![3c0402c9-bd25-45b0-9be0-5d812e9be40c](https://github.com/user-attachments/assets/6206e5ea-2c79-4de9-8657-e0c487678708)
+
+>Gestión de Reservas
+
+![diagrama03](https://github.com/user-attachments/assets/6287b7f7-5479-425a-a3f6-56c5f6aa3645)
+
+>Pagos Seguros
+
+![diagrama04](https://github.com/user-attachments/assets/42c5128f-75cc-4b42-a450-456c045f8222)
+
+>Publicación de Comentarios
+
+
+![diagrama05](https://github.com/user-attachments/assets/d98e1158-6936-4b2d-8959-0d9f3ba3afbb)
