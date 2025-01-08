@@ -8,40 +8,50 @@
 
 ### Diagrama de Secuencia
 
+
 >Inicio de Sesión
 
 ![digrama02](https://github.com/user-attachments/assets/46fc7d1e-ac2b-4552-8495-73a63b37098e)
+
 
 >Registro de Usuarios
 
 ![3c0402c9-bd25-45b0-9be0-5d812e9be40c](https://github.com/user-attachments/assets/6206e5ea-2c79-4de9-8657-e0c487678708)
 
+
 >Gestión de Reservas
 
 ![diagrama03](https://github.com/user-attachments/assets/6287b7f7-5479-425a-a3f6-56c5f6aa3645)
+
 
 >Pagos Seguros
 
 ![diagrama04](https://github.com/user-attachments/assets/42c5128f-75cc-4b42-a450-456c045f8222)
 
+
 >Publicación de Comentarios
 
 ![diagrama05](https://github.com/user-attachments/assets/d98e1158-6936-4b2d-8959-0d9f3ba3afbb)
+
 
 >Visualización del Catálogo de Eventos
 
 ![Diagrama de Secuencia 5](https://github.com/user-attachments/assets/1a758897-6a1e-4f1a-91d6-53e0b5027af5)
 
+
 >Interacción con Chatbot
 
 ![Diagrama de Secuencia 6](https://github.com/user-attachments/assets/29f5d48f-d349-4148-aaa5-cfa6dab214d9)
+
 
 >Consulta de Reservas
 
 ![Diagrama de Secuencia 7](https://github.com/user-attachments/assets/24fb5581-1c62-44c2-b921-06a29d174829)
 
+
 >Notificaciones Automáticas
 
+![Diagrama de Secuencia 8](https://github.com/user-attachments/assets/3cc12065-376b-41ef-be62-f967ab2196b6)
 
 
 >Filtrado de Eventos por Categorías
