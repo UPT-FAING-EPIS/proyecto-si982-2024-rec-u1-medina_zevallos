@@ -30,4 +30,20 @@
 
 >Visualización del Catálogo de Eventos
 
-![Diagrama de Secuencia 5](https://github.com/user-attachments/assets/325755c8-bb2f-49dc-81ee-326586061b7c)
+![Diagrama de Secuencia 5](https://github.com/user-attachments/assets/1a758897-6a1e-4f1a-91d6-53e0b5027af5)
+
+>Interacción con Chatbot
+
+![Diagrama de Secuencia 6](https://github.com/user-attachments/assets/29f5d48f-d349-4148-aaa5-cfa6dab214d9)
+
+>Consulta de Reservas
+
+
+
+>Notificaciones Automáticas
+
+
+
+>Filtrado de Eventos por Categorías
+
+
