@@ -2,4 +2,5 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17616412)
 # proyecto-formatos-01
 
-![Diagrama de Casos de Uso](https://github.com/user-attachments/assets/bdb8a116-e15b-43f5-a4c1-4f4a70d3414e)
+### Diagrama de Casos de Uso
+<img src="https://github.com/user-attachments/assets/bdb8a116-e15b-43f5-a4c1-4f4a70d3414e" alt="Diagrama de Casos de Uso" width="400"/>
