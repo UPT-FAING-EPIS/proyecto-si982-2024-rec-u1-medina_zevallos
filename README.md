@@ -56,5 +56,5 @@
 
 >Filtrado de Eventos por Categorías
 
-
+![Diagrama de Secuencia 9](https://github.com/user-attachments/assets/a57d1dc5-7324-4857-8c33-7fb66942ab89)
 
